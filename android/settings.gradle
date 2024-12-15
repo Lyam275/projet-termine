@@ -1,0 +1,3 @@
+
+rootProject.name = "lyam_interactive_app"
+include ':app'
